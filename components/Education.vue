@@ -9,23 +9,18 @@
         </ul>
     
         <blockquote class="google">
-            <div class="blockquote__left">
+            <ul>
+                <li><i>2020</i> <a href="https://www.credential.net/81d0e873-8258-4d6e-8198-24a7dfd761f6?key=efac0ca03c93fe6a21c060d0ec92ea431749f097ff5fe2c1df5069889af18881&record_view=true">Mobile Web Specialist</a> - Google Developers</li>
                 <ul>
-                    <li><i>2020</i> <a href="https://www.credential.net/81d0e873-8258-4d6e-8198-24a7dfd761f6?key=efac0ca03c93fe6a21c060d0ec92ea431749f097ff5fe2c1df5069889af18881&record_view=true">Mobile Web Specialist</a> - Google Developers</li>
-                    <ul>
-                        <li>Basic Website Layout and Styling</li>
-                        <li>Front End Networking</li>
-                        <li>Accessibility</li>
-                        <li>Progressive Web Apps</li>
-                        <li>Performance Optimization and Caching</li>
-                        <li>Testing and Debugging</li>
-                        <li>Mobile Web Forms</li>
-                    </ul>
+                    <li>Basic Website Layout and Styling</li>
+                    <li>Front End Networking</li>
+                    <li>Accessibility</li>
+                    <li>Progressive Web Apps</li>
+                    <li>Performance Optimization and Caching</li>
+                    <li>Testing and Debugging</li>
+                    <li>Mobile Web Forms</li>
                 </ul>
-            </div>
-            <div class="blockquote__right">
-                <img src="~/assets/img/google_certif.png" alt="google certificate" class="google-certif">
-            </div>
+            </ul>
         </blockquote>
     
         <ul>

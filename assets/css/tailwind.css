@@ -33,19 +33,8 @@
     @apply bg-gradient-to-r from-primary-light border-secondary rounded-md border-l-8 my-4;
     padding: 10px;
     padding-left: 16px;
-    display: flex;
-    justify-content: space-between;
   }
   blockquote ul {
       padding-left: 17px;
-  }
-  .blockquote__left {
-      max-width: 600px;
-  }
-  .blockquote__right {
-      max-width: 500px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
   }
 }
