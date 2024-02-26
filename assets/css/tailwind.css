@@ -13,6 +13,8 @@
     @apply text-3xl font-bold;
     margin-top: 40px;
     margin-bottom: 10px;
+    padding-bottom: 10px;
+    @apply border-primary-extra-light border-b-2
   }
   a {
     @apply text-secondary-light;
@@ -24,10 +26,6 @@
     border-radius: 3px;
     padding: 1px;
   }
-  hr {
-    @apply border-primary-extra-light border-t-2;
-  }
-  
   blockquote {
     /* @apply shadow-md shadow-secondary-light/20; */
     @apply bg-gradient-to-r from-primary-light border-secondary rounded-md border-l-8 my-4;

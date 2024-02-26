@@ -1,6 +1,9 @@
 <template>
-  <div>
-    <!-- Markup shared across all pages, ex: NavBar -->
-    <NuxtPage class="relative"/>
-  </div>
+  <AppHeader />
+
+  <main class="mt-36 p-12">
+      <ContentDoc path="/cv"/>
+  </main>
+
+  <AppFooter />
 </template>
