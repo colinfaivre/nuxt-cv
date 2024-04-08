@@ -7,8 +7,9 @@
 
 ## Experience
 > *2023/2024* **Frontend lead developer** - *permanent*<br>
-> [EcoCO2](https://www.ecoco2.com/) - [UDWI](https://udwi.fr/) : Energy consumption monitoring web app
-> - Leading a frontend team to transition to vue3/typescript/unit-testing/pinia from a big vue2/javascript/vueX legacy codebase.
+> `vue3` `TS` `vitest` `pinia` `bash` `refactoring`<br>
+> [EcoCO2](https://www.ecoco2.com/) - UDWI: Energy consumption monitoring web app<br>
+> Leading a frontend team to transition to vue3/typescript/unit-testing/pinia from a big vue2/javascript/vueX legacy codebase.<br>
 
 > *2017/2022* **Vue.js developer** - *freelance*<br>
 > `vue.js` `TS` `unit testing` `e2e testing` `refactoring`
