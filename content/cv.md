@@ -7,8 +7,8 @@
 
 ## Experience
 > *2023/2024* **Frontend lead developer** - *permanent*<br>
-> [EcoCO2](https://www.ecoco2.com/)
-> - test
+> [EcoCO2](https://www.ecoco2.com/) - [UDWI](https://udwi.fr/) : Energy consumption monitoring web app
+> - Leading a frontend team to transition to vue3/typescript/unit-testing/pinia from a big vue2/javascript/vueX legacy codebase.
 
 > *2017/2022* **Vue.js developer** - *freelance*<br>
 > `vue.js` `TS` `unit testing` `e2e testing` `refactoring`
@@ -63,7 +63,7 @@
 - *2019* [Server-side dev with node.js](https://www.coursera.org/account/accomplishments/verify/DF33K5SBSSRA) - Hong Kong University
 - *2018* [UI/UX Design](http://coursera.org/account/accomplishments/specialization/certificate/CNFBDZFEL8EZ) - California institute of the arts
 - *2018* [Deep learning specialization](https://www.coursera.org/account/accomplishments/specialization/45ZLWS394SJD) - Deeplearning.ai
-- *????* **Concours de recrutement des professeurs des écoles** - IUFM Limoges
+- *2008* **Concours de recrutement des professeurs des écoles** - IUFM Limoges
 - *2005* **Bachelor of science: Mechanical and manufacturing engineering** - University of South Wales
 
 ## References
