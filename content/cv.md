@@ -35,9 +35,8 @@
 > Web sockets to play and chat with another connected user.<br>
 > Using the latest tools from the vue.js ecosystem on the frontend.<br>
 > Building a Typescript library to generate possible moves with the help of chess-programming-wiki<br>
-> - [chess front](https://github.com/octodrome/chess-front) - Play vs computer
-> - [chess back](https://github.com/octodrome/chess-back) - Service to play against other users
-> - [chess legal moves](https://github.com/octodrome/chess-legal-moves) - Returns legal moves from current game position
+> - [chess nuxt](https://github.com/octodrome/chess/tree/main/chess-nuxt) - Play vs computer or connected users
+> - [chess legal moves](https://github.com/octodrome/chess/tree/main/chess-legal-moves) - Returns legal moves from current game position
 
 ## Mentorship
 - *2023/2024* [EcoCO2](https://www.ecoco2.com/) Mentoring my junior colleagues
