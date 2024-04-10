@@ -59,9 +59,9 @@
 >   - Mobile Web Forms
 
 - *2020* [Mathematics for machine learning](https://www.coursera.org/account/accomplishments/specialization/certificate/GKXUNQCCLT8T) - Imperial College London
-- *2019* [ES6 Javascript](http://credential.net/b9e5cf43-c3d5-4ea4-82bc-86bec1ec56e6) - Pirple.com
+- *2019* [ES6 Javascript](https://credential.net/b9e5cf43-c3d5-4ea4-82bc-86bec1ec56e6) - Pirple.com
 - *2019* [Server-side dev with node.js](https://www.coursera.org/account/accomplishments/verify/DF33K5SBSSRA) - Hong Kong University
-- *2018* [UI/UX Design](http://coursera.org/account/accomplishments/specialization/certificate/CNFBDZFEL8EZ) - California institute of the arts
+- *2018* [UI/UX Design](https://coursera.org/account/accomplishments/specialization/certificate/CNFBDZFEL8EZ) - California institute of the arts
 - *2018* [Deep learning specialization](https://www.coursera.org/account/accomplishments/specialization/45ZLWS394SJD) - Deeplearning.ai
 - *2008* **Concours de recrutement des professeurs des écoles** - IUFM Limoges
 - *2005* **Bachelor of science: Mechanical and manufacturing engineering** - University of South Wales
