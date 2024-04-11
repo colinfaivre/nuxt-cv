@@ -11,5 +11,8 @@ export default defineNuxtConfig({
     prerender: {
       crawlLinks: true,
     }
-  }
+  },
+  app: {
+    baseURL: '/nuxt-cv/',
+  },
 })
