@@ -7,5 +7,9 @@ export default defineNuxtConfig({
       'DM Sans': [400, 500, 600, 900],
     }
   },
-  ssr: false
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+    }
+  }
 })
