@@ -46,6 +46,7 @@
 - *2021* [Vueland](https://discord.com/channels/325477692906536972/325654285255704578) Mentoring vue newcomers
 
 ## Education and certifications
+- *in progress* [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - Stanford
 - *2021* [Vue.js](https://skillvalue.com/fr/user/certificate/YlUXDGOERGIP2cr0LckXwKCpVl6gAOoJeEMNIcx3SBJm9bprXpF3rhS4l0lD) - skillvalue.com
 - *2021* [Game design](https://www.coursera.org/account/accomplishments/specialization/certificate/GKXUNQCCLT8T) - California institute of the arts
 
