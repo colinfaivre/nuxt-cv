@@ -5,7 +5,7 @@
             <img src="~/assets/img/avatar.jpeg" alt="avatar" class="header__img avatar">
         </div>
         <div class="p-5 pt-0 bg-gradient-to-r from-primary-extra-light to-primary-light border-secondary">
-            <h1 class="text-secondary">Senior <span class="text-white">Nuxt</span> developer</h1>
+            <h1 class="text-secondary">Software Engineer<span class="text-white"> | Senior Vue.js | Junior Go  🚀</span></h1>
         </div>
     </header>
 </template>
